@@ -1,4 +1,4 @@
 Hello! 12345
-hi git
+line from user2
 good evening (from branch master)
 
