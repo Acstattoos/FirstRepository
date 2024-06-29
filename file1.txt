@@ -1,2 +1,3 @@
 mas
 some new fitcher
+line from user 1 - lesson about rebase
